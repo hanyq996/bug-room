@@ -9,20 +9,8 @@ Netease Cloud Music Copyright Protection File Dump
 
 代码用C++重写了 兼容了更复杂奇怪的结构 去除了 `openssl` 依赖库 本人不会C++多多包涵
 
-## 便捷式传送门
-
-Windows GUI版本 [ncmdump-gui](https://github.com/anonymous5l/ncmdump-gui)
-
-Windows GUI应用程序 [ncmdump-gui-release](https://github.com/anonymous5l/ncmdump-gui/releases/tag/fully) 运行库基于 `.NetFramework 4.6.1` 
-
-Android版本 [DroidNCM](https://github.com/bunnyblueair/DroidNCM)
-
 ## 依赖库
 	* taglib
 
 ## 使用
 	ncmdump [files]...
-
-## 微信捐赠
-
-![wechat-pay](https://raw.githubusercontent.com/anonymous5l/static-resoures/master/wechat-pay.png?raw=true)
